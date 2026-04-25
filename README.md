@@ -27,5 +27,6 @@ Junior roles have higher turnover
 🛠 Tools Used
 Python (Pandas, NumPy)
 Power BI
+
 📷 Dashboard Preview
-"C:\Users\shahm\OneDrive\Desktop\HR-Analytics-Project\HR-Dahboard.png"
+
