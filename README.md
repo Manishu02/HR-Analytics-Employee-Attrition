@@ -81,3 +81,6 @@ Power BI dashboard created to visualize employee attrition insights.
 
 This project identifies key factors affecting employee attrition and supports data-driven HR decisions.
 
+## 👩‍💻 Author
+##  Manisha Shah
+
