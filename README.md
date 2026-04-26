@@ -72,7 +72,8 @@ Power BI dashboard created to visualize employee attrition insights.
 
 ## 📷 Dashboard Preview
 
-<img width="1398" height="743" alt="HR-Dahboard" src="https://github.com/user-attachments/assets/80887352-2bbd-43b9-9593-bf845df98081" />
+<img width="1376" height="735" alt="HR-Analytics-Dashboard" src="https://github.com/user-attachments/assets/d4ec28c6-f87b-4796-8d40-7e31abdde26a" />
+
 
 
 ---
